@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Super Shine",
+  "base_artist": "Kaneee",
+  "createdAt": "2026-01-10T05:47:29.325331Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SUPER SHINE",
+      "artist": "EXILE",
+      "has_synced": true,
+      "path": "select/01_SUPER_SHINE_EXILE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SUPER SHINE",
+      "artist": "GENERATIONS from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/02_SUPER_SHINE_GENERATIONS_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Super Shine",
+      "artist": "Kaneee",
+      "has_synced": false,
+      "path": "select/pl_01_Super_Shine_Kaneee.txt"
+    }
+  ]
+}
