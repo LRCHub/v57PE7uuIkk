@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Super Shine",
   "base_artist": "Kaneee",
-  "createdAt": "2026-01-10T05:47:29.325331Z",
+  "createdAt": "2026-03-28T15:31:52.325676Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,142 @@
       "artist": "GENERATIONS from EXILE TRIBE",
       "has_synced": true,
       "path": "select/02_SUPER_SHINE_GENERATIONS_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Super Freaky Girl",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/03_Super_Freaky_Girl_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Super Gremlin",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/04_Super_Gremlin_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Scary Monsters (And Super Creeps)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/05_Scary_Monsters_(And_Super_Creeps)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Super Evil",
+      "artist": "Die Antwoord",
+      "has_synced": false,
+      "path": "select/06_Super_Evil_Die_Antwoord.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Super Stars",
+      "artist": "Yves Tumor",
+      "has_synced": true,
+      "path": "select/07_Super_Stars_Yves_Tumor.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Super Saiyan",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/08_Super_Saiyan_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Super Bass",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/09_Super_Bass_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Super Highways",
+      "artist": "The Other Two",
+      "has_synced": false,
+      "path": "select/10_Super_Highways_The_Other_Two.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Super-Duper-Man",
+      "artist": "Toy-Box",
+      "has_synced": true,
+      "path": "select/11_Super-Duper-Man_Toy-Box.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Super Electric - Original Version",
+      "artist": "Bomfunk MC's",
+      "has_synced": false,
+      "path": "select/12_Super_Electric_-_Original_Version_Bomfunk_MC's.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Super Cell",
+      "artist": "Trippie Redd",
+      "has_synced": true,
+      "path": "select/13_Super_Cell_Trippie_Redd.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Super Sharp Shooter",
+      "artist": "The Ganja Kru",
+      "has_synced": false,
+      "path": "select/14_Super_Sharp_Shooter_The_Ganja_Kru.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Super Slimey",
+      "artist": "Yak Gotti",
+      "has_synced": false,
+      "path": "select/15_Super_Slimey_Yak_Gotti.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Super Crook Blues",
+      "artist": "Sigue Sigue Sputnik",
+      "has_synced": false,
+      "path": "select/16_Super_Crook_Blues_Sigue_Sigue_Sputnik.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Super Life",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/17_Super_Life_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Super Overdrive",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/18_Super_Overdrive_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Altamont Super - Highway Revisited",
+      "artist": "Apollo 440",
+      "has_synced": false,
+      "path": "select/19_Altamont_Super_-_Highway_Revisited_Apollo_440.txt"
     },
     {
       "id": "petitlyrics_1",
